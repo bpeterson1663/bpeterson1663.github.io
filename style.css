@@ -49,8 +49,8 @@ nav{
 	background-color: #a4dcfc;
 	height:40px;
 	vertical-align: center;
-	
 }
+
 nav ul{
 	margin-top: 0px;
 	text-align:center;
@@ -74,6 +74,7 @@ nav ul li:hover{
 }
 nav a{
 	text-decoration: none;
+	color: #112633;
 }
 
 nav a:visited{
