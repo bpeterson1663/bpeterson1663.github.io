@@ -1,0 +1,122 @@
+html { 
+	min-height: 100%; 
+	margin-bottom: 1px; 
+	background-color: #e8e5e5;
+}	
+body{
+	width:800px;
+	margin:0 auto;
+	border: 1px solid black;
+	
+}
+h2, h3{
+	text-align: center;
+}
+article{
+	700px;
+}
+main {
+	border: 1px solid #141414;
+	padding: 0 8px 0 8px;
+	margin-top:0px;;
+}
+header {
+	text-align: center;
+	background-color: #141414;
+	background: linear-gradient(0deg, #141414, #324d59);
+	color: #e8e5e5;
+	padding: 3px 8px 3px 8px;
+}
+header figure {
+	background-image: url(images/brady.jpg);
+	border: 1px solid black;
+	width: 150px;
+	height: 150px;
+	border-radius: 75px;
+	background-size: cover;
+	display:block;
+	float: right;
+	margin-top: -175px;
+	
+}
+header a{
+	color:white;
+}
+header a:visited{
+	color:white;
+}
+nav{
+	background-color: #a4dcfc;
+	height:40px;
+	vertical-align: center;
+	
+}
+nav ul{
+	margin-top: 0px;
+	text-align:center;
+	color: #112633;
+	padding: 10px 0 0 0;
+}
+nav ul li{
+	list-style: none;
+	display:inline;
+	border:2px groove black;
+	padding:3px 10px 0px 10px;
+	background-color: #52b7f2;
+	border-radius:10px;	
+	font-family: Impact, Charcoal, sans-serif;
+	vertical-align: center;
+
+}
+nav ul li:hover{
+	background-color: #0a354f;
+	color: white;
+}
+nav a{
+	text-decoration: none;
+}
+
+nav a:visited{
+	color: #112633;
+}
+form{
+	margin: 0 auto;
+	text-align: center;
+	padding: 10px;
+}
+form input{
+	margin-top: 5px;
+
+}
+form textarea{
+	margin-top: 5px;
+	vertical-align: top;
+}
+footer{
+	text-align: center;
+	background-color: #141414;
+	background: linear-gradient(0deg, #141414, #324d59);
+	color: #e8e5e5;
+	padding: 3px 8px 3px 8px;
+	height:80px;
+}
+footer p{
+	margin-top:7px;
+}
+footer p a{
+	padding: 0 3px;
+}
+
+#summary{
+	text-indent: 50px;
+	font-size:16px;
+	font-weight: bold;
+	font-style: italic;
+	padding:0 30px 30px 30px;
+	text-align: center;
+}
+#formParagraph{
+	font-size:12px;
+	font-style: italic;
+	text-align:center;
+}
